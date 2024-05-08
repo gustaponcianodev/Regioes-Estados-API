@@ -1,0 +1,221 @@
+{
+  "estados": [
+    {
+      "id": 8,
+      "name": "Acre",
+      "regiao": {
+        "id": 3,
+        "name": "Norte"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Alagoas",
+      "regiao": {
+        "id": 5,
+        "name": "Nordeste"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Amapá",
+      "regiao": {
+        "id": 3,
+        "name": "Norte"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Amazonas",
+      "regiao": {
+        "id": 3,
+        "name": "Norte"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Bahia",
+      "regiao": {
+        "id": 5,
+        "name": "Nordeste"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Ceará",
+      "regiao": {
+        "id": 5,
+        "name": "Nordeste"
+      }
+    },
+
+    {
+      "id": 16,
+      "name": "Distrito Federal",
+      "regiao": {
+        "id": 4,
+        "name": "Centro-Oeste"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Espirito Santo",
+      "regiao": {
+        "id": 2,
+        "name": "Sudeste"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Goiás",
+      "regiao": {
+        "id": 4,
+        "name": "Centro-Oeste"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Maranhão",
+      "regiao": {
+        "id": 5,
+        "name": "Nordeste"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Mato Grosso",
+      "regiao": {
+        "id": 4,
+        "name": "Centro-Oeste"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Mato Grosso do Sul",
+      "regiao": {
+        "id": 4,
+        "name": "Centro-Oeste"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Minas Gerais",
+      "regiao": {
+        "id": 2,
+        "name": "Sudeste"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Paraná",
+      "regiao": {
+        "id": 1,
+        "name": "Sul"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Paraíba",
+      "regiao": {
+        "id": 5,
+        "name": "Nordeste"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Pará",
+      "regiao": {
+        "id": 3,
+        "name": "Norte"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Pernambuco",
+      "regiao": {
+        "id": 5,
+        "name": "Nordeste"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Piauí",
+      "regiao": {
+        "id": 5,
+        "name": "Nordeste"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Rio Grande do Norte",
+      "regiao": {
+        "id": 5,
+        "name": "Nordeste"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rio Grande do Sul",
+      "regiao": {
+        "id": 1,
+        "name": "Sul"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rio de Janeiro",
+      "regiao": {
+        "id": 2,
+        "name": "Sudeste"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Rondônia",
+      "regiao": {
+        "id": 3,
+        "name": "Norte"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Roraima",
+      "regiao": {
+        "id": 3,
+        "name": "Norte"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Santa Catarina",
+      "regiao": {
+        "id": 1,
+        "name": "Sul"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Sergipe",
+      "regiao": {
+        "id": 5,
+        "name": "Nordeste"
+      }
+    },
+    {
+      "id": 4,
+      "name": "São Paulo",
+      "regiao": {
+        "id": 2,
+        "name": "Sudeste"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Tocantins",
+      "regiao": {
+        "id": 3,
+        "name": "Norte"
+      }
+    }
+  ]
+}
